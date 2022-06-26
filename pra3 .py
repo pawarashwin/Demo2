@@ -1,0 +1,2 @@
+x=('blackpurlp')
+print(x)
